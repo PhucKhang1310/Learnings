@@ -26,7 +26,7 @@ function App() {
         Main
       </GridItem>
     </Grid>
-  );
+  )
 }
 
 export default App;
